@@ -1,0 +1,14 @@
+{
+  "attributes": {
+   "title": {
+     "type" : "string"
+   },
+   "body": {
+     "type" : "text"
+   },
+   "thumbnail" : {
+    "type" : "string",
+    "mod" : "nullable"
+   } 
+  }
+}
